@@ -24,7 +24,7 @@
     "rollup-plugin-node-globals": "^1.4.0",
     "rollup-plugin-node-resolve": "^4.2.4",
     "rollup-plugin-terser": "^4.0.4",
-    "standard-version": "^6.0.1",
+    "standard-version": "^8.0.1",
     "typescript": "^3.1.6"
   },
   "devDependencies": {
